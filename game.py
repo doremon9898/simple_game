@@ -1,5 +1,5 @@
 """Zombie Top-down Shooter (tkinter)
-พัฒนาโดย: nitithon
+พัฒนาโดย: nitithon zojimax
 ควบคุม:
     W A S D / ลูกศร  - เดิน
     เมาส์             - เล็ง
